@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "30cb299488d9962004cf04897ae253fd"
+build_time: [1594358858, 937273000]
+inputs:
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/ReachabilitySwift/Reachability/Reachability.swift": [1531357754, 0]

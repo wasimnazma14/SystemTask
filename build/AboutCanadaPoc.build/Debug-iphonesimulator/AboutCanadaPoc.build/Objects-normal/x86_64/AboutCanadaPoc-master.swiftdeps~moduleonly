@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "f2e7168ebd6ab648a1249080fdc10267"
+build_time: [1594358620, 46594000]
+inputs:
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/ViewController.swift": [1594358617, 106145215]
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/Model/Country.swift": [1553875631, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/WebService/WebServiceHandler.swift": [1553875631, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/Validation/ValidationHandler.swift": [1553875631, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/CountryDetailTableViewCell.swift": [1553875631, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/Parser/ParserHandler.swift": [1553875631, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/Model/Detail.swift": [1553875631, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/AboutCanadaPoc/AppDelegate.swift": [1553875631, 0]

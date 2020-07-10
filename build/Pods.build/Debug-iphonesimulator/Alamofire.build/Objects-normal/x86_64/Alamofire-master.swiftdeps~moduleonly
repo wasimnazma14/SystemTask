@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "0dc72f00f47effbf5dc9a7d33dc6ff23"
+build_time: [1594358607, 783104000]
+inputs:
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/AFError.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/Alamofire.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/MultipartFormData.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/Notifications.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/ParameterEncoding.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/Request.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/Response.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/ResponseSerialization.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/Result.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/SessionDelegate.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/SessionManager.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/TaskDelegate.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/Timeline.swift": [1531357754, 0]
+  "/Users/wasim/Downloads/AboutCanadaPoc/Pods/Alamofire/Source/Validation.swift": [1531357754, 0]
